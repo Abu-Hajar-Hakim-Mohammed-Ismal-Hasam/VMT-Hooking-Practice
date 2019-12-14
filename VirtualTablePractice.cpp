@@ -8,7 +8,7 @@
 class cX {
 public:
 	virtual void function1() { std::cout << "Function1 called" << std::endl; }
-	int int1 = 5; // Does not include this variable as it is not stored in the vtable (not "virtual")
+	int variable = 5; // Does not include this variable as it is not stored in the vtable (not "virtual")
 
 	
 };
