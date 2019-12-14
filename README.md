@@ -1,2 +1,2 @@
 # VMT-Hooking-Practice
-Hooking virtual function practice
+Hooking virtual method table (VMT, Vtable etc) practice
